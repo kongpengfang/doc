@@ -1,0 +1,56 @@
+{
+    "name": "珠峰JS全栈",
+    "version": "0.0.1",
+    "description": "",
+    "keywords": [
+        ""
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "zhufengnodejs <zhufengnodejs@126.com>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "doc",
+        "md": [
+            "index.md",
+            {
+                "前端工程化": []
+            },
+            {
+                "前端框架": []
+            },
+            {
+                "数据库": []
+            },
+            {
+                "CSS": []
+            },
+            {
+                "Git": [
+                    "git安装.md",
+                    "git.md"
+                ]
+            },
+            {
+                "HTML": []
+            },
+            {
+                "JAVASCRIPT": [
+                    "ES6.md",
+                    "webpack.md",
+                    "javascript.md",
+                    "react.md"
+                ]
+            },
+            {
+                "NODEJS": []
+            },
+            {
+                "工具": []
+            }
+        ]
+    }
+}
